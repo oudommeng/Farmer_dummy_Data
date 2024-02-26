@@ -3,62 +3,92 @@
     {
       "id": "Question001",
       "parent_id": 1,
-      "text": "What is your favorite crop?",
+      "text": "Can you tell me a little bit about your farm and its history?",
       "ordering": 1
     },
     {
       "id": "Question002",
       "parent_id": 2,
-      "text": "How many acres do you farm?",
+      "text": "What inspired you to become a farmer?",
       "ordering": 2
     },
     {
       "id": "Question003",
       "parent_id": 3,
-      "text": "What is your favorite crop?",
+      "text": "What crops do you grow, and why did you choose them?",
       "ordering": 3
     },
     {
       "id": "Question004",
       "parent_id": 4,
-      "text": "How many acres do you farm?",
+      "text": "Do you follow organic, sustainable, or other specific farming practices?",
       "ordering": 4
     },
     {
       "id": "Question005",
       "parent_id": 5,
-      "text": "What is your favorite crop?",
+      "text": "How do you handle challenges like pests, weeds, and weather conditions?",
       "ordering": 5
     },
     {
       "id": "Question006",
       "parent_id": 6,
-      "text": "How many acres do you farm?",
+      "text": "What kind of technology or innovations do you use on your farm?",
       "ordering": 6
     },
     {
       "id": "Question007",
       "parent_id": 7,
-      "text": "What is your favorite crop?",
+      "text": "What are the biggest challenges you face as a farmer?",
       "ordering": 7
     },
     {
       "id": "Question008",
       "parent_id": 8,
-      "text": "How many acres do you farm?",
+      "text": "What's the most rewarding part of being a farmer?",
       "ordering": 8
     },
     {
       "id": "Question009",
       "parent_id": 9,
-      "text": "What is your favorite crop?",
+      "text": "How has farming changed in your area over the years?",
       "ordering": 9
     },
     {
       "id": "Question010",
       "parent_id": 10,
-      "text": "How many acres do you farm?",
+      "text": "How do you sell your products (farmers markets, directly to stores, etc.)?",
       "ordering": 10
+    },
+    {
+      "id": "Question011",
+      "parent_id": 11,
+      "text": "What do you think the future of farming looks like?",
+      "ordering": 11
+    },
+    {
+      "id": "Question012",
+      "parent_id": 12,
+      "text": "What advice would you give to someone who wants to become a farmer?",
+      "ordering": 12
+    },
+    {
+      "id": "Question013",
+      "parent_id": 13,
+      "text": "What's something you wish more people knew about farming?",
+      "ordering": 13
+    },
+    {
+      "id": "Question014",
+      "parent_id": 14,
+      "text": "What's your favorite thing to grow, and why?",
+      "ordering": 14
+    },
+    {
+      "id": "Question015",
+      "parent_id": 15,
+      "text": "What's the most interesting or unusual thing that's happened on your farm?",
+      "ordering": 15
     }
   ]
 }
